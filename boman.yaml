@@ -6,6 +6,6 @@ Auth:
 # DAST:
 #   type: "WEB"
 #   URL: "https://demo.testfire.net/"
-SCA:
-  language: python-snyk-sca
+# SCA:
+#   language: python-snyk-sca
 Secret_Scan: true
